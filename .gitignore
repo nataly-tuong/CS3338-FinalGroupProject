@@ -1,0 +1,23 @@
+#Git ignore
+
+#log files
+
+*.log
+
+#User-manual
+docs/User_Manual
+
+#all files with a '-'
+*-*
+
+#styles.css
+src/styles.css
+
+#SRS files besides final version
+docs/Software_Requirement_Specification/SRS_v*
+
+#SDD files besided final version
+docs/Software_Design_Document/SDD_v*
+
+#any readme files besides ones in root directory
+# */README.md
