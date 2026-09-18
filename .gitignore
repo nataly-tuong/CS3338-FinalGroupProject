@@ -20,4 +20,4 @@ docs/Software_Requirement_Specification/SRS_v*
 docs/Software_Design_Document/SDD_v*
 
 #any readme files besides ones in root directory
-# */README.md
+*/README.md
